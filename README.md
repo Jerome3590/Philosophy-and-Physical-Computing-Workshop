@@ -1,1 +1,1 @@
-# Philosphy-and-Physical-Computing-Workshop
+# Philosophy-and-Physical-Computing-Workshop
