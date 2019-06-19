@@ -1,4 +1,3 @@
-__all__ = ['PlotDecisionRegions', 'HumidityClassification']
-
-from .PlotDecisionRegions import *
-from .HumidityClassification import *
+__all__ = ['BACON', 'Perceptron']
+from .BACON import *
+from .Perceptron import *
